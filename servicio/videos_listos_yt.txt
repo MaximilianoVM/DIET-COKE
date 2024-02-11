@@ -1,0 +1,15 @@
+
+TITULO,TEMA,SUBTEMA,CONTENIDO,SUBCONTENIDO
+clasificacion de los triangulos.mp4,GEOMETRÍA,Trigonometría,Clasificacion de triangulos,clasificacion
+conceptos de estadisticas.mp4,ESTOCÁSTICO,Estadística,Medidas de tendencia central,Conceptos
+DESVIACIO-6.mp4,ESTOCÁSTICO,Estadística,Medidas de tendencia central,Desviacion estandar
+Mediana.mp4,ESTOCÁSTICO,Estadística,Medidas de tendencia central,Media
+moda.mp4,ESTOCÁSTICO,Estadística,Medidas de tendencia central,Moda
+POLIGONOS Y SUS ELEMENTOS.mp4,ÁLGEBRA,Algebra,Poligonos,Elementos
+Promedio.mp4,ESTOCÁSTICO,Estadística,Medidas de tendencia central,Promedio
+PROPORCIONALIDAD DIRECTA1.mp4,ÁLGEBRA,Algebra,Proporcionalidad,directa
+PROPORCIONALIDAD INVERSA2.0.mp4,ÁLGEBRA,Algebra,Proporcionalidad,inversa
+Razones trigonométricas.mp4,GEOMETRÍA,Trigonometría,Razones trigonometricas,triangulos
+TRIANGULOS SEMEJANTES.mp4,GEOMETRÍA,Trigonometría,Triangulos semejantes,semejantes
+Varianza-5.mp4,ESTOCÁSTICO,Estadística,Medidas de tendencia central,Varianza
+
