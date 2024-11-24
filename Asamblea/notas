@@ -1,0 +1,67 @@
+aplica estas instrucciones para las filas df['origen'] y df['destino'] 
+aplicar en ese orden, a menos que los comentarios indiquen lo contrario
+
+INSTRUCCIONES: 
+*: deja igual. ej: si contiene 'obrera' reemplaza todo el texto por 'obrera'
+-->: renombra a 
+#: hacer caso a los comentarios
+
+dorado --> valle dorado
+uabc --> uabc sauzal
+unam *
+c.i.c.e.s.e -> cicese
+cet -> cetmar
+nano -> unam
+morro -> uabc sauzal
+astro --> unam
+cnyn --> unam
+colchonera *
+cisece --> cicese
+
+obrera *
+moderna * # antes que autozone
+acapulco *
+autozone y numero -> autozone + numero
+vista --> buena vista (zorrillo)
+bellavista *
+aeropuerto *
+17 abril *
+dorado --> valle dorado
+verde --> valle verde
+2 septiembre *
+villa --> villas # primero renombrar [encinos, prado, real, sol]
+prado --> villas del prado
+real --> villas del real
+sol --> villas del sol
+roble --> villas del roble
+
+revolución --> colonia revolucion 
+loma linda *
+chapultepec --> vallle de chapultepec
+ 
+sauzal *
+centro *
+villas *
+playitas *
+maneadero *
+cicese *
+encinos *
+popular *
+
+
+
+quitas acentos tambien? tildes? hazlo si no 
+
+NUEVAS: 
+89 *
+lomitas *
+banda --> punta banda
+porticos *
+hidalgo --> colonia hidalgo
+river --> riveroll
+
+
+
+
+
+
